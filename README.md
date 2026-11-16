@@ -6,7 +6,7 @@ Institución:INACAP
 Sede: La Serena  
 
 
-1. Introducción
+1.Introducción
 
 La fibra óptica es un medio de transmisión que utiliza pulsos de luz que viajan por filamentos de vidrio. Se usa en redes de telecomunicaciones por su alta capacidad de transmisión, rapidez y bajas pérdidas.
 
@@ -14,7 +14,7 @@ La termofusión es el método de empalme de fibra óptica en el cual se utilizan
 
 En este manual se explican los principales pasos a seguir para poder llevar a cabo una fusión de fibra óptica. Los pasos incluyen aspectos de seguridad, preparación de material, limpieza, corte preciso, termofusión y comprobación de resultados.
 
-2. Objetivos
+2.Objetivos
 
 Objetivo general
 
@@ -29,7 +29,7 @@ Objetivos específicos
 - Calcular el presupuesto óptico de un enlace.
 - Registrar los resultados de las mediciones realizadas.
 
-3. Glosario técnico
+3.Glosario técnico
 
 Núcleo (Core):Parte central de la fibra óptica por donde se transmite la luz. Posee un índice de refracción mayor que el revestimiento.
 
@@ -39,7 +39,7 @@ Cleaving:Procedimiento de corte de precisión de la fibra óptica que busca obte
 
 Atenuación: Pérdida de potencia de la señal óptica durante su transmisión. Se expresa generalmente en decibelios (dB) o decibelios por kilómetro (dB/km).
 
-4. Materiales y herramientas
+4.Materiales y herramientas
 
 Para realizar el procedimiento de fusión de fibra óptica se utilizan los siguientes elementos:
 
@@ -53,7 +53,7 @@ Para realizar el procedimiento de fusión de fibra óptica se utilizan los sigui
 - Recipiente adecuado para residuos de fibra.
 - Lentes de seguridad.
 
-5. Seguridad y preparación
+5.Seguridad y preparación
 
 Antes de comenzar la práctica se deben considerar las medidas de seguridad correspondientes.
 
@@ -65,7 +65,7 @@ Antes de comenzar la práctica se deben considerar las medidas de seguridad corr
 
 Advertencia:Los fragmentos de fibra óptica pueden ser difíciles de visualizar y deben manipularse con precaución. Nunca deben dejarse sobre la mesa de trabajo.
 
-6. Procedimiento técnico
+6.Procedimiento técnico
 
 6.1 Stripping (Pelado de fibra)
 
@@ -113,8 +113,8 @@ Este elemento proporciona protección mecánica al empalme y ayuda a mantener su
 
 ![Protección del empalme](assets/img/fusion-final.jpeg)
 
-7. Presupuesto óptico
-w
+7.Presupuesto óptico
+
 El presupuesto óptico consiste en analizar las pérdidas de potencia de la señal en un enlace de fibra óptica.
 
 Las pérdidas pueden deberse a:
@@ -131,7 +131,7 @@ En una instalación de fibra óptica es posible conocer si la potencia recibida 
 
 Consideración de la práctica: En esta actividad hemos trabajado el proceso de fusión de fibra óptica. No se ha pedido hacer ningún tipo de cálculo de presupuesto óptico. Por ello, en este apartado se incluye información técnica sobre el concepto y sus componentes.
 
-8. Medición y verificación
+8.Medición y verificación
 
 La medición y verificación nos permite analizar la calidad de nuestro empalme de fibra óptica.
 
@@ -149,7 +149,7 @@ La propia fusionadora puede dar una estimación de la pérdida que tiene el empa
 
 Consideración de la práctica: En esta actividad hemos trabajado en la parte de fusión sin incluir ningún tipo de cálculo o medición de presupuesto óptico.
 
-9. Conclusión
+9.Conclusión
 
 El proceso de fusión de fibra óptica es uno de los pasos fundamentales a la hora de poner en marcha una red de telecomunicaciones.
 
