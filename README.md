@@ -14,6 +14,7 @@ La termofusión es el método de empalme de fibra óptica en el cual se utilizan
 
 En este manual se explican los principales pasos a seguir para poder llevar a cabo una fusión de fibra óptica. Los pasos incluyen aspectos de seguridad, preparación de material, limpieza, corte preciso, termofusión y comprobación de resultados.
 
+
 2.Objetivos
 
 Objetivo general
@@ -38,6 +39,7 @@ Cladding:Revestimiento de vidrio que rodea al núcleo y permite mantener la luz 
 Cleaving:Procedimiento de corte de precisión de la fibra óptica que busca obtener una superficie perpendicular para facilitar la fusión.
 
 Atenuación: Pérdida de potencia de la señal óptica durante su transmisión. Se expresa generalmente en decibelios (dB) o decibelios por kilómetro (dB/km).
+
 
 4.Materiales y herramientas
 
@@ -64,6 +66,7 @@ Antes de comenzar la práctica se deben considerar las medidas de seguridad corr
 - Utilizar los productos de limpieza según las indicaciones del laboratorio.
 
 Advertencia:Los fragmentos de fibra óptica pueden ser difíciles de visualizar y deben manipularse con precaución. Nunca deben dejarse sobre la mesa de trabajo.
+
 
 6.Procedimiento técnico
 
@@ -113,6 +116,7 @@ Este elemento proporciona protección mecánica al empalme y ayuda a mantener su
 
 ![Protección del empalme](assets/img/fusion-final.jpeg)
 
+
 7.Presupuesto óptico
 
 El presupuesto óptico consiste en analizar las pérdidas de potencia de la señal en un enlace de fibra óptica.
@@ -131,6 +135,7 @@ En una instalación de fibra óptica es posible conocer si la potencia recibida 
 
 Consideración de la práctica: En esta actividad hemos trabajado el proceso de fusión de fibra óptica. No se ha pedido hacer ningún tipo de cálculo de presupuesto óptico. Por ello, en este apartado se incluye información técnica sobre el concepto y sus componentes.
 
+
 8.Medición y verificación
 
 La medición y verificación nos permite analizar la calidad de nuestro empalme de fibra óptica.
@@ -148,6 +153,7 @@ Los puntos a tener en cuenta son:
 La propia fusionadora puede dar una estimación de la pérdida que tiene el empalme (dependiendo de las características). Los instrumentos de medida óptica específicos nos permiten hacer mediciones del enlace completo.
 
 Consideración de la práctica: En esta actividad hemos trabajado en la parte de fusión sin incluir ningún tipo de cálculo o medición de presupuesto óptico.
+
 
 9.Conclusión
 
