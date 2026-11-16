@@ -6,6 +6,7 @@ Institución:INACAP
 Sede: La Serena  
 
 
+
 1.Introducción
 
 La fibra óptica es un medio de transmisión que utiliza pulsos de luz que viajan por filamentos de vidrio. Se usa en redes de telecomunicaciones por su alta capacidad de transmisión, rapidez y bajas pérdidas.
