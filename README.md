@@ -5,33 +5,7 @@ Asignatura:Infraestructura de Redes (TCB304)
 Institución:INACAP  
 Sede: La Serena  
 
-
-
-1.Introducción
-
-La fibra óptica es un medio de transmisión que utiliza pulsos de luz que viajan por filamentos de vidrio. Se usa en redes de telecomunicaciones por su alta capacidad de transmisión, rapidez y bajas pérdidas.
-
-La termofusión es el método de empalme de fibra óptica en el cual se utilizan fusionadoras (que trabajan con arco eléctrico) para unir dos fibras. De esta manera se consigue un empalme permanente con bajas atenuaciones.
-
-En este manual se explican los principales pasos a seguir para poder llevar a cabo una fusión de fibra óptica. Los pasos incluyen aspectos de seguridad, preparación de material, limpieza, corte preciso, termofusión y comprobación de resultados.
-
-
-2.Objetivos
-
-Objetivo general
-
-Documentar el procedimiento técnico de preparación y fusión de fibra óptica, considerando las medidas de seguridad y los parámetros necesarios para obtener un empalme de calidad.
-
-Objetivos específicos
-
-- Identificar los materiales y herramientas utilizados en la práctica.
-- Aplicar medidas de seguridad durante la manipulación de fibra óptica.
-- Describir los procesos de stripping, limpieza y cleaving.
-- Explicar el funcionamiento de la fusionadora.
-- Calcular el presupuesto óptico de un enlace.
-- Registrar los resultados de las mediciones realizadas.
-
-3.Glosario técnico
+1.Glosario técnico
 
 Núcleo (Core):Parte central de la fibra óptica por donde se transmite la luz. Posee un índice de refracción mayor que el revestimiento.
 
@@ -42,7 +16,7 @@ Cleaving:Procedimiento de corte de precisión de la fibra óptica que busca obte
 Atenuación: Pérdida de potencia de la señal óptica durante su transmisión. Se expresa generalmente en decibelios (dB) o decibelios por kilómetro (dB/km).
 
 
-4.Materiales y herramientas
+2.Materiales y herramientas
 
 Para realizar el procedimiento de fusión de fibra óptica se utilizan los siguientes elementos:
 
@@ -56,7 +30,7 @@ Para realizar el procedimiento de fusión de fibra óptica se utilizan los sigui
 - Recipiente adecuado para residuos de fibra.
 - Lentes de seguridad.
 
-5.Seguridad y preparación
+3.Seguridad y preparación
 
 Antes de comenzar la práctica se deben considerar las medidas de seguridad correspondientes.
 
@@ -69,9 +43,9 @@ Antes de comenzar la práctica se deben considerar las medidas de seguridad corr
 Advertencia:Los fragmentos de fibra óptica pueden ser difíciles de visualizar y deben manipularse con precaución. Nunca deben dejarse sobre la mesa de trabajo.
 
 
-6.Procedimiento técnico
+4.Procedimiento técnico
 
-6.1 Stripping (Pelado de fibra)
+4.1 Stripping (Pelado de fibra)
 
 El stripping consiste en retirar las capas protectoras del cable de fibra óptica mediante una pinza peladora adecuada, dejando expuesto el vidrio de la fibra de 125 micras.
 
@@ -81,13 +55,13 @@ Imagen de la práctica:
 
 ![Proceso de stripping](assets/img/stripping.jpg)
 
-6.2 Limpieza de precisión
+4.2 Limpieza de precisión
 
 Una vez retirada la protección, se realiza la limpieza de la fibra utilizando alcohol isopropílico de alta pureza y paños libres de pelusa.
 
 El objetivo es eliminar partículas de suciedad y residuos que puedan afectar la calidad del empalme.
 
-6.3 Cleaving (Corte de precisión)
+4.3 Cleaving (Corte de precisión)
 
 El cleaving consiste en realizar un corte preciso en el extremo de la fibra utilizando una cortadora especializada.
 
@@ -97,7 +71,7 @@ Imagen de la práctica:
 
 ![Corte de precisión](assets/img/cleaving.jpeg)
 
-6.4 Proceso de termofusión
+4.4 Proceso de termofusión
 
 La termofusión permite unir dos extremos de fibra óptica mediante una fusionadora.
 
@@ -109,7 +83,7 @@ Imagen de la práctica:
 
 ![Proceso de termofusión](assets/img/fusionadora.jpeg)
 
-6.5 Protección del empalme
+4.5 Protección del empalme
 
 Después de realizar la fusión, se instala un manguito termocontraíble sobre la unión.
 
@@ -118,7 +92,7 @@ Este elemento proporciona protección mecánica al empalme y ayuda a mantener su
 ![Protección del empalme](assets/img/fusion-final.jpeg)
 
 
-7.Presupuesto óptico
+5.Presupuesto óptico
 
 El presupuesto óptico consiste en analizar las pérdidas de potencia de la señal en un enlace de fibra óptica.
 
@@ -137,7 +111,7 @@ En una instalación de fibra óptica es posible conocer si la potencia recibida 
 Consideración de la práctica: En esta actividad hemos trabajado el proceso de fusión de fibra óptica. No se ha pedido hacer ningún tipo de cálculo de presupuesto óptico. Por ello, en este apartado se incluye información técnica sobre el concepto y sus componentes.
 
 
-8.Medición y verificación
+6.Medición y verificación
 
 La medición y verificación nos permite analizar la calidad de nuestro empalme de fibra óptica.
 
@@ -155,11 +129,88 @@ La propia fusionadora puede dar una estimación de la pérdida que tiene el empa
 
 Consideración de la práctica: En esta actividad hemos trabajado en la parte de fusión sin incluir ningún tipo de cálculo o medición de presupuesto óptico.
 
+7.Presupuesto óptico
 
-9.Conclusión
+El presupuesto óptico nos permite calcular las pérdidas de potencia que sufre la luz en un enlace de fibra óptica. Las pérdidas vienen dadas en decibelios (dB). Los factores que influyen son la distancia, el número de conectores y empalmes.
 
-El proceso de fusión de fibra óptica es uno de los pasos fundamentales a la hora de poner en marcha una red de telecomunicaciones.
+Elementos que generan pérdidas
 
-En él es importante el proceso de preparación de la fibra, así como su limpieza y el corte preciso.
+-Atenuación por kilómetro. Es la pérdida de potencia que sufre la señal mientras atraviesa la fibra óptica. Está dada en dB/km.
 
-Por otro lado también es importante el cálculo del presupuesto óptico y la comprobación empleando instrumentos que nos permitan conocer el funcionamiento del enlace y su cumplimiento de los requisitos técnicos.
+-Conectores. Son los puntos de conexión de los diferentes elementos de la red. Pueden generar pérdidas.
+
+-Empalmes. Son las conexiones entre fibras ópticas. En este punto se pueden minimizar las pérdidas si se realiza la fusión adecuadamente.
+
+-Margen GPON. Es un margen de potencia que se reserva para garantizar el correcto funcionamiento del enlace. Sirve para compensar posibles pérdidas extra.
+
+Cálculo del presupuesto óptico
+
+Para estimar la pérdida total tenemos que utilizar la siguiente expresión:
+
+Pérdida total = Atenuación por km x distancia + pérdidas de conectores + pérdidas de empalmes.
+
+Por último se compara la pérdida con el presupuesto óptico disponible. De esta forma sabremos si el enlace es posible o no.
+
+8.Advertencias y errores comunes
+
+En la preparación y fusión de fibra óptica es importante tener en cuenta las siguientes precauciones:
+
+En el momento de pelar(Stripping)
+
+⚠️ NO se debe ejercer presión sobre la pinza peladora. Se podría dañar o romper la fibra de vidrio.
+
+-Usar la herramienta adecuada.
+
+-Se debe evitar rayar o mellarse la fibra de 125 micras.
+
+En el momento de limpiar
+
+⚠️ Es importante evitar la suciedad o residuos. Puede afectar la calidad del empalme y puede incrementar la atenuación.
+
+-Usar alcohol isopropílico de alta pureza.
+
+-Usar paños sin pelusa.
+
+-Evitar contacto con los dedos en la zona limpiada.
+
+En el momento de cortar (Cleaving)
+
+⚠️ Es importante evitar que el corte sea irregular o inclinado. Esto puede generar una fusión incorrecta.
+
+-Usar correctamente la cortadora de precisión.
+
+-Debería buscarse un corte perpendicular (cerca de 90°).
+
+-La zona de corte debe mantenerse limpia.
+
+En el momento de realizar la termofusión.
+
+⚠️ Es importante asegurar que las fibras están bien alineadas. De otra forma pueden generarse pérdidas adicionales en el enlace.
+
+-Verificar que los extremos estén limpios.
+
+-Introducir correctamente las fibras en la fusionadora.
+
+-Verificar que el proceso de alineación y fusión terminen correctamente.
+
+-En el momento de proteger el empalme.
+
+⚠️ Es importante asegurar que el empalme está debidamente protegido. De otra forma puede dañarse la unión.
+
+-Ubicar correctamente el manguito termocontraíble.
+
+-Esperar a que termine el proceso de calentamiento.
+
+-Evitar manipulaciones hasta que esté protegido.
+
+-Seguridad y residuos.
+
+⚠️ Los pequeños trozos de fibra de vidrio pueden causar lesiones.
+
+-Usar lentes de seguridad.
+
+-No se debe contactar directamente con los residuos de fibra.
+
+-Los trozos deben ser colocados en un recipiente de residuos de fibra óptica.
+
+-Debe mantenerse el orden y limpieza en el lugar de trabajo.
